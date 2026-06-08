@@ -1,10 +1,10 @@
-#Student Registration System for Secondary Schools
+# Student Registration System for Secondary Schools
 
- ##Project Description  
+ ## Project Description  
  
 The Student Registration and Fee Management System is a computerized system designed to manage student records in a secondary school. The system helps school administrators register students, store student information, manage fee payments, and generate reports efficiently. It reduces, paperwork, improves data accuracy, and enhances record management.
 
-##Objectives  
+## Objectives  
 
 To register and manage student information. 
 
@@ -70,7 +70,7 @@ Fee payment reports.
 
 Outstanding fee balance reports.
 
-##Technologies Used
+## Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
